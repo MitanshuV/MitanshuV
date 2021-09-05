@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MitanshuV
-- 👀 I’m interested in ... React js and python
+- 👀 I’m interested in ...HTML5, CSS3, ES6, React js and python
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 
